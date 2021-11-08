@@ -1,0 +1,47 @@
+[33mcommit 9ae798e0ebd5219c1d2a433525bb7cb6aa38d8bd[m[33m ([m[1;36mHEAD -> [m[1;32mstatic-pages[m[33m)[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 16:00:12 2021 +0300
+
+    Finish static pages
+
+[33mcommit d4d36e57daaa9f3dd3d396f934600d09aa06b01e[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 15:33:41 2021 +0300
+
+    Refactor duplicate code in static_page files
+
+[33mcommit 6ac97f579023b9a436b88e58d7ca8bcf890db795[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 14:53:54 2021 +0300
+
+    Add page titles
+
+[33mcommit 2cf9051d3f380a50941f5703668115f666005c0d[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 14:23:18 2021 +0300
+
+    Add static pages
+
+[33mcommit 2c38f5c8e7624f6fe46181498e7bbf9241973429[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 11:28:50 2021 +0300
+
+    Add a Static Pages controller
+
+[33mcommit 8eada7923c7c0f710412fdf8bed28489fc76fe69[m[33m ([m[1;31morigin/main[m[33m, [m[1;31mheroku/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 11:05:36 2021 +0300
+
+    Add hello
+
+[33mcommit 8b61b88b5d09daf90b37188efb03e133caaac887[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 10:57:54 2021 +0300
+
+    Improve the README
+
+[33mcommit f76f52b351f786bb4090e19cf91a1388bfbb931a[m
+Author: Busel Vlad <vladlbusel@gmail.com>
+Date:   Mon Nov 8 10:55:42 2021 +0300
+
+    Initialize repository
